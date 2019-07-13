@@ -1,4 +1,2 @@
 # hello-world
-Sample repository
-Created for online learning and practice.
-Will be writing code and saving sample code as I learn.
+Sample repository created for online learning and practice. Practice git functions using various git commands
